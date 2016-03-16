@@ -1,0 +1,12 @@
+{
+  "name": "cloudant-crud",
+  "version": "1.0.0",
+  "description": "Basic CRUD for CloudantDB",
+  "author": {
+    "name": "Arman Ortega"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "cloudant": "^1.4.1"
+  }
+}
